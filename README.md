@@ -24,7 +24,7 @@ This project implements a simple, interactive AI assistant that leverages OpenAI
 
 1. Clone this repository or download the script file:
    ```bash
-   git clone https://github.com/yourusername/ai-assistant.git
+   git clone https://github.com/yourusername/Autonomous_AI_Agent
    cd ai-assistant
    ```
 
